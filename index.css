@@ -7,6 +7,10 @@ body{
 }
 
 img:hover{
-	width: 2em;
-	height: 2em;
+	width: 200em;
+	height: 200em;
+}
+
+img{
+	height: 100em;
 }
