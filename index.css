@@ -7,7 +7,6 @@ body{
 }
 
 :hover{
-	float: right;
 	width: 2em;
 	height: 2em;
 }
