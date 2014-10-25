@@ -1,7 +1,7 @@
 body{
 	background-color: #A89;
 	text-align: center;
-	font-size: 7em;
+	font-size: 72pt;
 	font-weight: bold;
 	font-family: Verdana;
 }
@@ -13,4 +13,5 @@ img:hover{
 img{
 	display: block;
 	height: 10em;
+	image-align: center;
 }
