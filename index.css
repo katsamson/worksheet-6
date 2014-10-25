@@ -1,13 +1,13 @@
 body{
 	background-color: #A89;
 	text-align: center;
-	font-size: x-large;
+	font-size: 7em;
 	font-weight: bold;
-	font-family: monospace;
+	font-family: Verdana;
 }
 
 img:hover{
-	height: 75em;
+	height: 50em;
 }
 
 img{
